@@ -1,0 +1,59 @@
+Техніка
+
+[b]Саплайка[/b], також: [b]сопля[/b], [b]саплай[/b], з англ [b]Supply vehicle[/b] - вантажівка або технічка для перевозу ресурсів та побудови ФОБ.
+
+[b]Піхотка[/b] - вантажівка або технічка для перевозки піхоти. Не має можливості перевозити молотки та будувати ФОБи.
+
+[b]Бардак[/b] - БРДМ-2 (доступний за повстанців, міліту, русню).
+
+[b]Беха[/b] - БМП-1 та БМП-2
+
+[b]Мотолига[/b] - МТ-ЛБ Див: [url=https://uk.wikipedia.org/wiki/%D0%9C%D0%A2-%D0%9B%D0%91] Вікі [/url] та [url=https://squad.fandom.com/wiki/MT-LB] (gamewiki)MT-LB [/url]
+
+[b]Вісімдесятка[/b], також: [b]Бетр[/b]  - БТР-80 Див: [url=https://squad.fandom.com/wiki/BTR-80] (gamewiki)BTR-80 [/url]
+
+[b]Тридцятка[/b], також: Бетр - БТР-82А обладнаний 30-мм гарматою. Див: [url=https://squad.fandom.com/wiki/BTR-82A] (gamewiki)BTR-82A [/url]
+
+[b]Зушка[/b] - зенітний комплекс ЗУ-23 доступний як побудова або змонтований на транспортний засіб. Див: [url=https://squad.fandom.com/wiki/ZU-23-2] (gamewiki)ZU-23-2 [/url]
+
+[b]Лавка[/b] - техніка НАТО серії LAV: LAV 6, LAV-25, LAV III. Див: [url=https://squad.fandom.com/wiki/LAV_6.0] (gamewiki)LAV 6 [/url], [url=https://squad.fandom.com/wiki/LAV-25] (gamewiki)LAV-25 [/url], [url=https://squad.fandom.com/wiki/LAV_III] (gamewiki)LAV III [/url]
+
+[b]МБТ[/b] (англ калька: Мейн Батл Танк) - танк
+
+[b]Коробочка[/b] - M113A3 Див: [url=https://uk.wikipedia.org/wiki/M113] Вікі [/url] та [url=https://squad.fandom.com/wiki/M113A3] (gamewiki)M113A3 [/url]
+
+[b]Страйкер[/b] - M1126 Див: [url=https://uk.wikipedia.org/wiki/Stryker] Вікі [/url] та [url=https://squad.fandom.com/wiki/M1126] (gamewiki)M1126 [/url]
+
+[b]Корова, Амтрак[/b] - AAVP-7A1 Див: [url=https://en.wikipedia.org/wiki/Assault_Amphibious_Vehicle] Вікі [/url] та [https://squad.fandom.com/wiki/AAVP] (gamewiki)AAVP[/url]
+
+
+[b]Тапок[b] - TAPV Див: [url=https://uk.wikipedia.org/wiki/Textron_TAPV] Вікі [/url] та [url=https://squad.fandom.com/wiki/TAPV] (gamewiki)TAPV [/url]
+
+[b]Бульдог[/b] - FV432 Див: [url=https://uk.wikipedia.org/wiki/FV432] Вікі [/url] та [url=https://squad.fandom.com/wiki/FV432] (gamewiki)FV432 [/url]
+
+[b]Ворріор[/b] - FV510 та FV510UA Див: [url=https://uk.wikipedia.org/wiki/Warrior_(%D0%91%D0%9C%D0%9F)] Вікі [/url] та [url=https://squad.fandom.com/wiki/FV510] (gamewiki)FV510 [/url]
+
+[b]Стас[/b], також: Стасік - FV520 CTAS UA  (початково, CTAS40 - це гармата що встановлена на FV510)
+Див: [url=https://squad.fandom.com/wiki/FV510#FV520_CTAS_UA]FV520 CTAS[/url]
+
+[b]Челенджер[/b] - танк FV4034 Див: [url=https://squad.fandom.com/wiki/FV4034] (gamewiki)FV4034 [/url]
+
+[b]МРАП[/b], калька англ. MRAP - клас бронеавтомобілів розроблених для захисту екіпажу від мін та вибухівки, у грі є синонімом до "Бронеавтомобіль".
+
+[b]Технічка[/b], англ. Technical - сімейство транспортниих засобів міліти та повстанців, пікап з/без подальшими модифікаціями.
+
+[b]НАР[/b], ру. [b]НУРС[/b] , також: [b]UB-32[/b] - система некерованих авіаційних ракет, яку встановлено на технічку або на деякі види бронетранспортерів МЕА та русні. Див: [url=https://squad.fandom.com/wiki/UB-32] (gamewiki)UB-32 [/url]
+
+[b]Птуровозка[/b] - транспортний засіб зі змонтованою системою ПТРК (на відміну від деяких IFV, ПТРК для птуровозки - єдиний засіб ураження).
+
+англ. [b]APC[/b] (Armoured Personnel Carrier) - дослівно: БТР (бронетранспортер),
+[url=https://en.wikipedia.org/wiki/Armoured_personnel_carrier] Вікі [/url]
+
+англ. [b]IFV[/b] (Infantry Fighting Vehicle) - дослівно: БМП (Бойова Машина Піхоти)
+[url=https://en.wikipedia.org/wiki/Infantry_fighting_vehicle] Вікі [/url]
+
+[b]Шахід мобіль/мопед[/b], також: [b]шахід[/b] - будь який транспортний засіб (зазвичай мотоцикл) із закладеною IED, призначений для самознищення поруч із ворогом
+(зазвичай водій передає запит на знищення по рації саперу, що сидить на відстані наготові).
+
+[b]РВС[/b], калька з англ. [b]RWS[/b] (Remote controlled weapon station) - система електронного керування зброєю, що дозволяє вести вогонь кулеметом сидячи всередині транспортного засобу. Див. [url=https://en.wikipedia.org/wiki/Remote_controlled_weapon_station] Вікі [/url]
+Про бронеавтомобілі на які встановлені системи РВС також кажуть що вони [b]закриті[/b], наприклад [b]"Закритий Тигр"[/b] говорячи про руснявий Tigr-M. Бронеавтомобіль без системи РВС називають [b]відкритим[/b], наприклад [b]відкритий МРАП[/b].
