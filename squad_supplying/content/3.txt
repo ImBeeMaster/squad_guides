@@ -1,0 +1,217 @@
+Наземна техніка регуляри
+
+[hr][/hr]
+[h3]Саплай вантажівка (саплайка)[/h3]
+Користувачі: US/USMC,Rus,GB,CAF,Aus,MEA
+
+[table]
+[tr]
+        [th][previewicon=28788130;sizeOriginal,inline;M939_Logistics_Truck_Statistics.jpg][/previewicon][/th]
+        [th][previewicon=28788127;sizeOriginal,inline;Kamaz_5350_Logi_Infocard.jpg][/previewicon][/th]
+        [th][previewicon=28796602;sizeOriginal,inline;Ural_4320_Truck_Logistics_Statistic.jpg][/previewicon][/th]
+ [/tr]
+    [tr]
+        [td][previewicon=28788131;sizeOriginal,inline;MAN_HX_Logistics_Infosheet.png][/previewicon][/td]
+        [td][previewicon=28788132;sizeOriginal,inline;MSVS_Logistics_Infocard.jpg][/previewicon][/td]
+        [td][previewicon=28796603;sizeOriginal,inline;HX60LogiInfocard.png][/previewicon][/td]
+    [/tr]
+    [tr]
+        [td][/td]
+        [td][previewicon=28788124;sizeOriginal,inline;AAVCInfocard.png][/previewicon][/td]
+        [td][/td]
+    [/tr]
+[/table]
+
+Місткість 3000 припасів
+Основне джерело ресурсів на більшості картах.
+
+[b]Варіанти викладки[/b]
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Два хаби[/td]
+        [td]1200[/td]
+        [td]1800[/td]
+        [td]2 хаби, 2 коробки патронів[/td]
+    [/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]2400[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+    [tr]
+        [td]Деф хаб із ремкою[/td]
+        [td]1600[/td]
+        [td]1400[/td]
+        [td]1 хаб, 1 коробка патронів
+        1 ремка + 500 будматів для ремки[/td]
+    [/tr]
+    [tr]
+        [th][u]Tow-FOB (Протитаноковий ФОБ)[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція А[/td]
+        [td]1200[/td]
+        [td]1800[/td]
+        [td]1 tow, 1 хаб, 1 коробка патронів
+        3 постріли tow[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]700[/td]
+        [td]2300[/td]
+        [td]1 tow, 1 коробка патронів
+        4 постріли tow[/td]
+    [/tr]
+    [tr]
+        [th][u]Міномети[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція A[/td]
+        [td]1200[/td]
+        [td]1800[/td]
+        [td]2 міномета, 1хаб+патрони
+        40 пострілів HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]600[/td]
+        [td]2400[/td]
+        [td]2 міномета
+        40 пострілів HE[/td]
+    [/tr]
+[/table]
+
+
+Два хаби -- Найбільш вживаніша опція
+Один хаб -- Опція для швидкого зайняття ТІ та її затяжної оборони
+Деф хаб із ремкою -- 2га лінія після атакувального хаба
+Tow-FOB -- опція А підходить якщо ФОБ може слугувати запасним  (Приклад: ФОБ у межах 400м від точок інтересту);
+опція Б підходить при віддаленій позиції ФОБи, коли спавн для команди не потрібен,
+всеж варто прихопити будматів на коробку припасів оскільки це дозволяє ПТ сквадівцям воювати з технікою окремо від TOW, 
+а також сквадлідеру відновлювати патрони на раліки. Також опція Б підходить для [strike]принизливого та ганебного[/strike] спавнкемпінгу (перевіряйте у правилах серверу на якому граєте чи дозволена така тактика),
+ проте краще для цього підійде гелікоптер.
+Tow-FOB найбільш доцільні на великих відкритих картах з важкою технікою та гелікоптерами: Skorpo, Gorodok, Yehorivka, Kohat Toi,
+ Lashkar Valley, Al Basrah (доцільність рідкісна, але може буть), Anvil, Mutaha, Tallil Outskirts, Manic-5, Goose Bay, Black Coast
+Міномети -- актуальні на малих мапах, або на оборонних режимах (інвейжен, інсурженсі, дестракшен) як в атаці так і в обороні. Можливо також застосувати при RAAS/AAS коли затягується боротьба за точку (зазвичай центральну).
+Часто вирішують хід гри на таких мапах як: Fool's Road, Mestia (залежить від лееру), Chora, Kokan, Logar Valley; на Belaya та Mutaha: 50/50, сильно залежить від здатності команди обороняти фланги, осільки дизайн карти дозволяє успішно ДРГшити
+
+
+[h3]Сімір[/h3]
+Користувачі: MEA
+
+[table]
+[tr]
+    [th][previewicon=28796601;sizeOriginal,inline;Simir_Logistics_Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+Місткість 1400 припасів
+Зазвичай допоміжний засіб логістики, швидкість та скритність дозволяють швидше за ворога займати позиції або флангувати, у випадку боротьби проти нерегулярів: встигати до центральних ТІ, 
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+    [td]Один хаб[/td]
+    [td]600[/td]
+    [td]800[/td]
+    [td]1 хаб, 1 коробка патронів[/td]
+[/tr]
+[tr]  
+    [td][u]Tow-FOB (Протитаноковий ФОБ)[/u][/td]
+    [td]700[/td]
+    [td]700[/td]
+    [td]1 tow, 1 коробка патронів
+    1 постріли tow[/td]
+[/tr]
+[tr]
+    [th][u]Міномети[/u][/th]
+[/tr]
+[tr]
+    [td]Опція A[/td]
+    [td]900[/td]
+    [td]500[/td]
+    [td]1 міномет, 1хаб+патрони
+    12 пострілів HE[/td]
+[/tr]
+[tr]
+    [td]Опція Б[/td]
+    [td]600[/td]
+    [td]800[/td]
+    [td]2 міномета
+    20 пострілів HE[/td]
+[/tr]
+[/table]
+
+Tow або Міноментні ФОБи потребують негайного ресуплаю, накажіть своєму тіммейту везти повністю завантажену соплайку набоїв.
+2 хаби – будувати не рекомендується через малу кількість патронів.
+
+
+[h3]LUV-A1[/h3] 
+Користувачі: CAF
+
+[table]
+[tr]
+    [th][previewicon=28788128;sizeOriginal,inline;LUV-A1_Logi_infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+Місткість 1400 припасів (дивись Сімір)
+
+
+[h3]LUVW[/h3]
+Користувачі: CAF
+
+[table]
+[tr]
+    [th][previewicon=28788129;sizeOriginal,inline;LUVWLogiInfocard.png][/previewicon][/th]
+[/tr]
+[/table]
+
+Місткість 900 припасів
+Застосування -- схожий до Сіміру в швидкості та скритності, але програє в кількості припасів, що обмежує його застосування.
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+    [td]Один хаб[/td]
+    [td]600[/td]
+    [td]300[/td]
+    [td]1 хаб, 1 коробка патронів[/td]
+[/tr]
+[tr]
+    [td]Міномети[/td]
+    [td]300[/td]
+    [td]600[/td]
+    [td]1 міномет
+    15 пострілів HE[/td]
+[/tr]
+[/table]
+
+У випадку коли є тактична необхідність встановити TOW, будмати варто везти другою ходкою, оскільки порожній TOW тільки приверне увагу техніки, для якої знищення TOW -- приорітет №1
+

@@ -1,0 +1,286 @@
+Гелікоптери
+
+[h3]UH-60M[/h3]
+[table]
+[tr]
+    [th][previewicon=28799250;sizeOriginal,inline;UH-60M_Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+Місткість 1000 припасів
+
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]400[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+    [tr]
+        [td][u]Tow-FOB (Протитаноковий ФОБ)[/u][/td]
+        [td]700[/td]
+        [td]300[/td]
+        [td]1 tow, 1 коробка патронів
+        0 пострілів tow[/td]
+    [/tr]
+    [tr]
+        [th][u]Міномети[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція A[/td]
+        [td]300[/td]
+        [td]700[/td]
+        [td]1 міномета,
+        17 пострілів HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]600[/td]
+        [td]400[/td]
+        [td]2 міномета
+        10 пострілів HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція В[/td]
+        [td]900[/td]
+        [td]100[/td]
+        [td]1 Хаб, патрони, 1 міномет,
+        2 постріла HE[/td]
+    [/tr]
+[/table]
+
+[h3]Мі-8[/h3]
+Користувачі: Rus
+[table]
+[tr]
+    [th][previewicon=28799262;sizeOriginal,inline;MI-8_Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+Місткість 1400 припасів
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]800[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+    [tr]
+        [td][u]Tow-FOB (Протитаноковий ФОБ)[/u][/td]
+        [td]700[/td]
+        [td]700[/td]
+        [td]1 tow, 1 коробка патронів
+        1 постріл tow[/td]
+    [/tr]
+    [tr]
+        [th][u]Міномети[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція A[/td]
+        [td]600[/td]
+        [td]800[/td]
+        [td]2 міномета,
+        20 пострілів HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]1200[/td]
+        [td]200[/td]
+        [td]1 міномет, 1хаб+набої,
+        5 пострілів HE[/td]
+    [/tr]
+[/table]
+
+
+[h3]Мі-17[/h3]
+Користувачі: MEA
+[table]
+[tr]
+    [th][previewicon=28799263;sizeOriginal,inline;MI-17_Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+Так само як для Мі-8
+
+
+[h3]SA330[/h3]
+Користувачі: GB
+[table]
+[tr]
+    [th][previewicon=28800090;sizeOriginal,inline;SA330.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]600[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+    [tr]
+        [td][u]Tow-FOB (Протитаноковий ФОБ)[/u][/td]
+        [td]600[/td]
+        [td]600[/td]
+        [td]1 tow, 1 коробка патронів
+        1 постріл tow[/td]
+    [/tr]
+    [tr]
+        [th][u]Міномети[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція A[/td]
+        [td]300[/td]
+        [td]900[/td]
+        [td]1 міномет,
+        22 постріла HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]600[/td]
+        [td]600[/td]
+        [td]2 міномет,
+        15 пострілів HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція В[/td]
+        [td]900[/td]
+        [td]300[/td]
+        [td]1 міномет, 1хаб+набої,
+        7 пострілів HE[/td]
+    [/tr]
+[/table]
+
+
+
+[h3]MRH-90[/h3]
+Користувачі: AUS
+[table]
+[tr]
+    [th][previewicon=28799251;sizeOriginal,inline;MRH90Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+Місткість 1000 припасів
+Застосування: так само як UH-60M
+
+
+[h3]CH-146[/h3]
+Користувачі: CAF
+[table]
+[tr]
+    [th][previewicon=28799248;sizeOriginal,inline;CH146Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+
+Місткість 800 припасів
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]200[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+[/table]
+
+
+[h3]CH-178[/h3]
+Користувачі: CAF
+[table]
+[tr]
+    [th][previewicon=28800083;sizeOriginal,inline;CH178Infocard.jpg][/previewicon][/th]
+[/tr]
+[/table]
+Місткість 1500 припасів
+
+[table]
+[tr]
+    [th][/th]
+    [th]Будмати
+[previewicon=28779633;sizeOriginal,inline;Logistic_suplly_icon.png]будмати[/previewicon][/th]
+    [th]Набої
+[previewicon=28779696;sizeOriginal,inline;Map_icon_ammo.png]набої[/previewicon][/th]
+    [th][/th]
+[/tr]
+[tr]
+[/tr]
+    [tr]
+        [td]Один хаб[/td]
+        [td]600[/td]
+        [td]900[/td]
+        [td]1 хаб, 1 коробка патронів[/td]
+    [/tr]
+    [tr]
+        [td][u]Tow-FOB (Протитаноковий ФОБ)[/u][/td]
+        [td]700[/td]
+        [td]800[/td]
+        [td]1 tow, 1 коробка патронів
+        1 постріл tow[/td]
+    [/tr]
+    [tr]
+        [th][u]Міномети[/u][/th]
+    [/tr]
+    [tr]
+        [td]Опція A[/td]
+        [td]900[/td]
+        [td]600[/td]
+        [td]1 міномет,
+        15 постріла HE[/td]
+    [/tr]
+    [tr]
+        [td]Опція Б[/td]
+        [td]600[/td]
+        [td]900[/td]
+        [td]2 міномета,
+        22 пострілів HE[/td]
+    [/tr]
+[/table]
+
+
+[h3]Загальні рекомендації[/h3]
+Освоїти J-hook для швидкого приземлення;
+У випадку підвозу припасів, тримати низький профіль щоб не видати позицію фоби;
+Загрузку на 2 хаби брати не рекомендується, оскільки посадити гелікоптер, кинути фобу,  побудувати хаб, завантажитись, злетіти на наступний хаб займе забагато часу, вродовж якого гелікоптер знайдуть і знищать. 
+Тактику Tow-FOB краще за все реалізовувати на гелікоптері, оскільки він дозволяє дістатись найвіддаленіших місць.
+Особливо ефективною є тактика бейзкемпінгу, коли Tow контролює виїзд техніки та виліт гелікоптерів з ворожого мейну. Проте спершу переконайтесь чи дозволено це на сервері на якому граєте (Т.з. Base camping rule). Як тільки кинете ФОБу для бейзкемпінгу, одразу запросіть у гелікоптера ресуплай.
